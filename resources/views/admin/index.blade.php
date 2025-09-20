@@ -241,7 +241,7 @@
                 </div>
                 <div class="chips">
                     <a href="{{ route('add.purchaserequest') }}" class="chip">Tambah PR</a>
-                    <a href="{{ route('add.purchaseorder') }}" class="chip">Tambah PO</a>
+                    <a href="#" class="chip">Tambah PO</a>
                     <a href="{{ route('all.purchaserequest') }}" class="chip">Daftar PR</a>
                     <a href="{{ route('all.purchaseorder') }}" class="chip">Daftar PO</a>
                 </div>
